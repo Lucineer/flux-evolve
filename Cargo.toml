@@ -2,3 +2,7 @@
 name = "flux-evolve"
 version = "0.1.0"
 edition = "2021"
+description = "Self-modification engine with mutation and selection — how agents improve themselves"
+
+[dependencies]
+rand = "0.8"
